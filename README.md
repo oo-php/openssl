@@ -14,7 +14,7 @@ An Object Oriented wrapper on top of PHP OpenSSL Extension
 ## Installation
 
 ```bash
-composer require oophp/openssl
+composer require oo-php/openssl
 ```
 
 ## Usage

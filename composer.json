@@ -1,5 +1,5 @@
 {
-    "name": "oophp/openssl",
+    "name": "oo-php/openssl",
     "description": "An object oriented wrapper around the openssl extension",
     "type": "library",
     "license": "MIT",
